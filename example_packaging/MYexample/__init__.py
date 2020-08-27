@@ -2,7 +2,7 @@
 from datetime import *
 import random
 
-__version__ = '0.0.1'
+__version__ = '0.1'
 def smallest(a, b, c, d, e):
     minst = min(a, b, c, d, e)
     print('smallest number: ' + str(minst))
@@ -19,13 +19,10 @@ def seconds_day(a):
     print(second)
 
     
-def test():
+def hello():
     print('Hi this world')
     name = input('What\'s your name? write it here:')
     print('Hi ' + name)
-    except:
-        print('test failed')
-    print('test sucsees')
 
 
 def fib(n):    # write Fibonacci series up to n
