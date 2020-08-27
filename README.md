@@ -5,7 +5,7 @@ In the examle_packaging folder are all my files to make the package.
 
 Then i open the terminal and write the following lines:
 
-$ cd /Users/mandi/Downloads/example_packaging   
+$ cd /Users/mandi/Desktop/example_packaging   
 
 $ python3 setup.py sdist bdist_wheel       
 
