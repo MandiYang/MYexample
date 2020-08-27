@@ -5,7 +5,7 @@ with open("README.txt", "r") as fh:
     print('readed')
     
 setup(name='MYexmaple',
-      version='0.0.1',
+      version='0.1',
       description='A exmaple package',
       author='Mandi Yang',
       author_email='mandi.yang@elev.kungsbacka.se',
