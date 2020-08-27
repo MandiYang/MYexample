@@ -7,7 +7,7 @@ You can make cardgames with it.
 
 # Usage
 
-import Yu
+import MYexample
 
 
 
