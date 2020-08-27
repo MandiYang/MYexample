@@ -11,7 +11,7 @@ setup(name='MYexmaple',
       author_email='mandi.yang@elev.kungsbacka.se',
       long_description=long_description,
       long_description_content_type="text/markdown",
-      url='https://github.com/MandiYang/MandiRepo',
+      url='https://github.com/MandiYang/MYexample',
       classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
