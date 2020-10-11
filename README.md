@@ -24,3 +24,5 @@ print out a card:
 >>> print(cards.give())
 
 ♠ Kn
+
+Don't use version 0.1 because i use now an another email
