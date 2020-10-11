@@ -1,0 +1,7 @@
+README.md
+setup.py
+MYexample/__init__.py
+MYexmaple.egg-info/PKG-INFO
+MYexmaple.egg-info/SOURCES.txt
+MYexmaple.egg-info/dependency_links.txt
+MYexmaple.egg-info/top_level.txt
