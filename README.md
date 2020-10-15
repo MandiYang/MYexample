@@ -15,7 +15,7 @@ $ python3 -m twine upload --repository testpypi dist/*
 
 Then i installad it:
 
-$ pip3 install --user -i https://test.pypi.org/simple/ MYexmaple
+$ python3 -m pip install --user -i https://test.pypi.org/simple/ MYexmaple
 
 print out a card:
 
