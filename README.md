@@ -5,7 +5,7 @@ In the examle_packaging folder are all my files to make the package.
 
 Then i open the terminal and write the following lines:
 
-$ pip3 install -U setuptools twine wheel
+$ python3 -m pip install -U setuptools twine wheel
 
 $ cd /Users/mandi/Desktop/example_packaging   
 
