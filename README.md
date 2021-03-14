@@ -3,7 +3,7 @@ This package is LICENSED under MIT.
 
 In the examle_packaging folder are all my files to make the package.
 
-Then i open the terminal and write the following lines:
+I opened the terminal and write the following lines:
 
 $ python3 -m pip install -U setuptools twine wheel
 
