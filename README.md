@@ -29,4 +29,4 @@ print out a card:
 
 Don't use version 0.1 because i use now an another email
 
-OUTDATED package, very bad to use it.
+# OUTDATED package, very bad to use it.
